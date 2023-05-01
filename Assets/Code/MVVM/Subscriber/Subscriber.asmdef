@@ -1,0 +1,16 @@
+{
+    "name": "DM.Subscriber",
+    "rootNamespace": "",
+    "references": [
+        "GUID:867138a062a460e46b68bfc5506b166a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

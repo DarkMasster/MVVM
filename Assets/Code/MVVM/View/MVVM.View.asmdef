@@ -1,0 +1,17 @@
+{
+    "name": "DM.MVVM",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6f0679e62598c1646b7413b8c506d1b3",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

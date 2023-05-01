@@ -1,0 +1,22 @@
+{
+    "name": "Example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:867138a062a460e46b68bfc5506b166a",
+        "GUID:8caf6b7437e9af744b0a177cb13f9d9d",
+        "GUID:6f0679e62598c1646b7413b8c506d1b3",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:9533f44a77543c14190b8c71aeb9178f",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
